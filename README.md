@@ -1,2 +1,1 @@
-# Personal-Expenses-Tracker-C
-An Expense tracker for all kinda Expenses by C programming 
+A simple console-based Personal Expense Tracker developed using C. It allows users to record daily expenses, enter expense amounts, and calculate total expenditure. Built to demonstrate loops, variables, user input, and arithmetic operations.
